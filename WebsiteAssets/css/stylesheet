@@ -1,0 +1,8 @@
+<html>
+	<body>
+	<?php
+	echo ('<b>Welcome to my
+	test page</b><br>');
+	?>
+	</body>
+</html>
