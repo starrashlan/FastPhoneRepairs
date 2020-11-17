@@ -1231,6 +1231,7 @@ fieldset {
 /*banner end*/
 /*hour list*/
 .hour {
-	margin-left: 2rem;
-	margin-right: 2rem;
+	margin-left: 3rem;
+	padding-left: 50px;
+	margin-right: 3rem;
 }
