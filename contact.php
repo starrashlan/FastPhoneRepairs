@@ -22,7 +22,7 @@
 
 	<div class="popup hidden" id="success">
 			<div class="popup-container">
-				<button class="popup-close">x</button> <img alt="Guy leaning against giant envelope with a green check mark above it." src="images/logo1.png">
+				<button class="popup-close">x</button> <img alt="logo" src="images/logo1.png">
 				<h2>Thank You</h2>
 				<p>Your message has been sent.</p>
 			</div>
